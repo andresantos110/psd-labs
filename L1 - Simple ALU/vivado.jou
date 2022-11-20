@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Oct  4 09:15:31 2022
+# Process ID: 4291
+# Current directory: /home/vinagre/Documents/IST/PSD/Lab/Lab1.1/Lab1
+# Command line: vivado /home/vinagre/Documents/IST/PSD/Lab/Lab1.1/Lab1/Lab0.xpr
+# Log file: /home/vinagre/Documents/IST/PSD/Lab/Lab1.1/Lab1/vivado.log
+# Journal file: /home/vinagre/Documents/IST/PSD/Lab/Lab1.1/Lab1/vivado.jou
+# Running On: artixvinagre, OS: Linux, CPU Frequency: 3552.235 MHz, CPU Physical cores: 16, Host memory: 14506 MB
+#-----------------------------------------------------------
+start_gui
+open_project /home/vinagre/Documents/IST/PSD/Lab/Lab1.1/Lab1/Lab0.xpr
+update_compile_order -fileset sources_1
+archive_project /home/vinagre/Documents/IST/PSD/Lab/Lab1.1/L1.xpr.zip -force -exclude_run_results
