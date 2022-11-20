@@ -1,0 +1,21 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.sim/sim_1/impl/func/xsim/circuito_tb_func_impl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clkdiv'
+INFO: [VRFC 10-3107] analyzing entity 'disp7'
+INFO: [VRFC 10-3107] analyzing entity 'fiterr'
+INFO: [VRFC 10-3107] analyzing entity 'fiterr_0'
+INFO: [VRFC 10-3107] analyzing entity 'fiterr_1'
+INFO: [VRFC 10-3107] analyzing entity 'fiterr_2'
+INFO: [VRFC 10-3107] analyzing entity 'linesel'
+INFO: [VRFC 10-3107] analyzing entity 'unimacro_BRAM_TDP_MACRO'
+INFO: [VRFC 10-3107] analyzing entity 'MemIN'
+INFO: [VRFC 10-3107] analyzing entity 'circuito'
+INFO: [VRFC 10-3107] analyzing entity 'fpga_basicIO'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/circuito.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'circuito'
+WARNING: [VRFC 10-3607] overwriting existing primary unit 'circuito' [/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/circuito.vhd:34]
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/linesel.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'linesel'
+WARNING: [VRFC 10-3607] overwriting existing primary unit 'linesel' [/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/linesel.vhd:34]
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/imports/Desktop/memSimples.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MemIN'
+WARNING: [VRFC 10-3607] overwriting existing primary unit 'memin' [/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/imports/Desktop/memSimples.vhd:65]

@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Nov  9 10:07:22 2022
+# Process ID: 1732
+# Current directory: /home/vinagre/Desktop/L3_Best_Aprox
+# Command line: vivado /home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.xpr
+# Log file: /home/vinagre/Desktop/L3_Best_Aprox/vivado.log
+# Journal file: /home/vinagre/Desktop/L3_Best_Aprox/vivado.jou
+# Running On: artixvinagre, OS: Linux, CPU Frequency: 3554.042 MHz, CPU Physical cores: 16, Host memory: 14506 MB
+#-----------------------------------------------------------
+start_gui
+open_project /home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.xpr
+update_compile_order -fileset sources_1
+archive_project /home/vinagre/Desktop/L3_Best_Aprox_G2.xpr.zip -force -exclude_run_results

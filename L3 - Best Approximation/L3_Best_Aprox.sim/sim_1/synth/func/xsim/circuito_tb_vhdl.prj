@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"circuito_tb_func_synth.vhd" \
+"../../../../../L3_Best_Aprox.srcs/sources_1/new/circuito.vhd" \
+"../../../../../L3_Best_Aprox.srcs/sources_1/new/fiterr.vhd" \
+"../../../../../L3_Best_Aprox.srcs/sources_1/new/linesel.vhd" \
+"../../../../../L3_Best_Aprox.srcs/sources_1/imports/Desktop/memSimples.vhd" \
+"../../../../../L3_Best_Aprox.srcs/sources_1/imports/lab0Files/circuito_tb.vhd" \
+
+# Do not sort compile order
+nosort

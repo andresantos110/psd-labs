@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.sim/sim_1/impl/timing/xsim/circuito_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MemIN
+INFO: [VRFC 10-311] analyzing module circuito
+INFO: [VRFC 10-311] analyzing module fiterr
+INFO: [VRFC 10-311] analyzing module fiterr_0
+INFO: [VRFC 10-311] analyzing module fiterr_1
+INFO: [VRFC 10-311] analyzing module fiterr_2
+INFO: [VRFC 10-311] analyzing module linesel
+INFO: [VRFC 10-311] analyzing module unimacro_BRAM_TDP_MACRO
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/imports/lab0Files/circuito_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'circuito_tb'

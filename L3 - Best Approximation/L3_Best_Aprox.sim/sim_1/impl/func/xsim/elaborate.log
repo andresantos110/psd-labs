@@ -1,0 +1,12 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2022.1/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot circuito_tb_func_impl xil_defaultlib.circuito_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-718] formal port <a> does not exist in entity <fiterr>.  Please compare the definition of block <fiterr> to its component declaration and its instantion to detect the mismatch. [/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/circuito.vhd:47]
+ERROR: [VRFC 10-718] formal port <rst> does not exist in entity <fiterr>.  Please compare the definition of block <fiterr> to its component declaration and its instantion to detect the mismatch. [/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/circuito.vhd:48]
+ERROR: [VRFC 10-718] formal port <pnt_rst> does not exist in entity <fiterr>.  Please compare the definition of block <fiterr> to its component declaration and its instantion to detect the mismatch. [/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/circuito.vhd:49]
+ERROR: [VRFC 10-718] formal port <last_point> does not exist in entity <fiterr>.  Please compare the definition of block <fiterr> to its component declaration and its instantion to detect the mismatch. [/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/circuito.vhd:50]
+ERROR: [VRFC 10-718] formal port <points_done> does not exist in entity <fiterr>.  Please compare the definition of block <fiterr> to its component declaration and its instantion to detect the mismatch. [/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/circuito.vhd:51]
+ERROR: [VRFC 10-718] formal port <out_fiterr> does not exist in entity <fiterr>.  Please compare the definition of block <fiterr> to its component declaration and its instantion to detect the mismatch. [/home/vinagre/Desktop/L3_Best_Aprox/L3_Best_Aprox.srcs/sources_1/new/circuito.vhd:52]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit circuito_tb in library work failed.
